@@ -31,7 +31,7 @@ Once you create a cluser in MongoDB Atlas, create a database called 'transaction
 1. Clone the git repository into a local project folder.
 
 ```
-git clone https://github.com/andrewzulaybar/expense-tracker.git
+git clone https://github.com/v8vikas/synergy.git
 ```
 
 2. Run ```cd client``` to change directories into the 'client' folder.
