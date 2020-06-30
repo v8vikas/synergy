@@ -57,7 +57,7 @@ async function getItems(userID) {
       }
     ]
   ).toArray();
-  return items[0].items;
+  return (items && items[0] && items[0].items) || [];
 }
 
 module.exports = {
